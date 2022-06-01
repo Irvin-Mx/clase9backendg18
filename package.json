@@ -1,0 +1,19 @@
+{
+  "name": "clase9backendg18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irvin-Mx/clase9backendg18.git"
+  },
+  "author": "Irvin Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irvin-Mx/clase9backendg18/issues"
+  },
+  "homepage": "https://github.com/Irvin-Mx/clase9backendg18#readme"
+}
