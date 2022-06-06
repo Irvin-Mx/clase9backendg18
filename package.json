@@ -4,6 +4,7 @@
   "description": "",
   "main": "express.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Irvin-Mx/clase9backendg18/issues"
   },
-  "homepage": "https://github.com/Irvin-Mx/clase9backendg18#readme"
+  "homepage": "https://github.com/Irvin-Mx/clase9backendg18#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.16"
+  }
 }
